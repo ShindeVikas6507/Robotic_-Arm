@@ -1,6 +1,4 @@
-# 🤖 Robotic Arm CAD Model
 
-This repository contains the CAD models and design files of a robotic arm.
 
 ## 📌 Project Overview
 
@@ -42,23 +40,11 @@ The complete robotic arm assembly is provided in the `Assembly` folder.
 
 ## 💻 Software
 
-**CAD Software:** [Add your CAD software here]
+CAD Software: Fusion 360
 
-Examples:
-
-* Fusion 360
-* SolidWorks
-* FreeCAD
-* AutoCAD
-
-## 📸 Project Preview
-
-Add images or renders of the robotic arm here.
 
 ## 👨‍💻 Author
 
-**Dipesh**
-
-## 📄 License
+ Vikas Shinde
 
 This project is shared for educational and development purposes.
