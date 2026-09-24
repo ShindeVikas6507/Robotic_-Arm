@@ -8,27 +8,13 @@ This project focuses on the design and development of a robotic arm consisting o
 
 The robotic arm consists of the following parts:
 
-* Base
+
 * Lower Base
 * Upper Base
 * Link 1
 * Link 2
 * Gripper
 
-## 📂 Repository Structure
-
-```text
-CAD/
-├── Base/
-├── Lower_Base/
-├── Upper_Base/
-├── Link_1/
-├── Link_2/
-└── Gripper/
-
-Assembly/
-└── Robotic_Arm_Assembly/
-```
 
 ## 🛠️ CAD Files
 
