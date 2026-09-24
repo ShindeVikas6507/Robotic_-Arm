@@ -20,9 +20,6 @@ The robotic arm consists of the following parts:
 
 Each component folder contains the corresponding CAD files and, where available, STL files for manufacturing or 3D printing.
 
-## 🔧 Assembly
-
-The complete robotic arm assembly is provided in the `Assembly` folder.
 
 ## 💻 Software
 
